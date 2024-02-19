@@ -23,7 +23,7 @@ export default function Header() {
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
                 <Link
-                  href="/"
+                  href="#projects"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Projects
@@ -31,7 +31,7 @@ export default function Header() {
               </li>
               <li>
                 <Link
-                  href="/"
+                  href="#services"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Services
@@ -39,7 +39,7 @@ export default function Header() {
               </li>
               <li>
                 <Link
-                  href="/"
+                  href="#features"
                   className="font-medium text-purple-600 hover:text-gray-200 px-4 py-3 flex items-center transition duration-150 ease-in-out"
                 >
                   Features

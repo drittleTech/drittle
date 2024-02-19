@@ -1,13 +1,13 @@
 export default function Features() {
   return (
-    <section data-aos="fade-up">
+    <section id="features" data-aos="fade-up">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 mb-36" >
         <div className="py-12 md:py-20 py-12 md:py-20 border-t border-gray-800 ">
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20 ">
             <h2 className="h2 mb-4">Why Choose us?</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p className="text-xl text-gray-400"> Choose us as your partner and experience the digital transformation </p>
           </div>
 
           {/* Items */}
